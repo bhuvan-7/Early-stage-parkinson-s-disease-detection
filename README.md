@@ -53,8 +53,11 @@ Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson'
 ## Usage
 
 Start the Flask app: python app.py
+
 Go to the web interface: http://127.0.0.1:5000/
+
 Upload a spiral/wavy drawing.
+
 View the prediction result: "Healthy" or "Parkinson."
 
 
