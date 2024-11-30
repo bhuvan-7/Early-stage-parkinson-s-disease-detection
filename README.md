@@ -52,13 +52,15 @@ Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson'
 
 ## Usage
 
-Start the Flask app: python app.py
+### To run the model and classify images, follow these steps:
 
-Go to the web interface: http://127.0.0.1:5000/
+1. Start the Flask app: python app.py
 
-Upload a spiral/wavy drawing.
+2. Go to the web interface: http://127.0.0.1:5000/
 
-View the prediction result: "Healthy" or "Parkinson."
+3. Upload a spiral/wavy drawing.
+
+4. View the prediction result: "Healthy" or "Parkinson."
 
 
 
