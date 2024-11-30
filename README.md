@@ -50,6 +50,19 @@ Input Size: 128x128x3
 Output Classes: 2 (Healthy, Parkinson)
 Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson's-affected individuals.
 
+## Usage
+
+To run the model and classify images:
+
+1. **Start the Flask application**:
+   Open a terminal and run the following command to start the Flask app:
+   ```bash
+   python app.py
+
+Go to the web interface: http://127.0.0.1:5000/
+Upload a spiral/wavy drawing.
+View the prediction result: "Healthy" or "Parkinson."
+
 
 
 
