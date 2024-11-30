@@ -61,13 +61,5 @@ Open a terminal or command prompt in your project directory and run the followin
 ```bash
 python app.py
 
-2. Access the Web Interface
-Once the Flask server is running, open a web browser and go to the following URL:
-
-arduino
-Copy code
-http://127.0.0.1:5000/
-
-
 
 
