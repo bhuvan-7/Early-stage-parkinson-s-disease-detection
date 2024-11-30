@@ -12,9 +12,7 @@ Welcome to the **Early-Stage Parkinson's Disease Detection** repository! This pr
 3. [Features](#features)
 4. [Model Details](#model-details)
 5. [Usage](#usage)
-6. [Folder Structure](#folder-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
@@ -64,27 +62,7 @@ Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson'
 
 
 
-## Folder Structure
-Here’s a brief overview of the folder structure:
 
-php
-Copy code
-.
-├── app.py                    # Flask web app for deployment
-├── models/
-│   └── model.h5              # Trained model file (stored with Git LFS)
-├── static/
-│   ├── css/
-│   └── images/
-├── templates/
-│   └── index.html            # HTML file for the web interface
-├── requirements.txt          # List of dependencies
-└── README.md                 # Project documentation
-models/: Contains the trained .h5 model file.
-static/: Stores static files like CSS and images.
-templates/: Stores HTML templates, including the main page (index.html).
-requirements.txt: Lists the necessary libraries for the project.
-   
 
 
 
