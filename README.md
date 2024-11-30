@@ -1,4 +1,4 @@
-# Early-stage-parkinson-s-disease-detection
+
 # Early-Stage Parkinson's Disease Detection
 
 Welcome to the **Early-Stage Parkinson's Disease Detection** repository! This project uses machine learning to detect Parkinson's disease at an early stage through analysis of spiral and wavy drawings. The model is trained to classify the severity of the disease using images of handwritten shapes, providing a potentially valuable tool for early diagnosis.
@@ -37,8 +37,3 @@ To use this project on your local machine, follow the steps below:
 - Flask (for deployment)
 - Git (for version control)
 
-### Steps
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Early-stage-parkinsons-disease-detection.git
