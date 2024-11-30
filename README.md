@@ -51,15 +51,27 @@ Output Classes: 2 (Healthy, Parkinson)
 Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson's-affected individuals.
 
 ## Usage
+To run the model and classify images:
 
-To run the model and classify images, follow these steps:
+Start the Flask application: Open a terminal and run the following command to start the Flask app:
 
-### 1. Start the Flask application
-
-Open a terminal or command prompt in your project directory and run the following command to start the Flask web application:
-
-```bash
+bash
+Copy code
 python app.py
+Access the Web Interface: After starting the Flask app, open your web browser and visit:
+
+arduino
+Copy code
+http://127.0.0.1:5000/
+Upload an Image:
+
+On the web page, you will see a drag-and-drop area for uploading an image.
+Drag and drop your spiral or wavy drawing image file onto the drop area.
+View the Result:
+
+The page will display the predicted result as either "Healthy" or "Parkinson," along with the confidence score of the prediction.
+
+
 
 
 
