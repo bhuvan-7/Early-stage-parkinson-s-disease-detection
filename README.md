@@ -37,3 +37,19 @@ To use this project on your local machine, follow the steps below:
 - Flask (for deployment)
 - Git (for version control)
 
+## Features
+Deep Learning-based Model: Trained with VGG16 for feature extraction and additional dense layers for classification.
+Data Preprocessing: Preprocessing includes resizing images, normalizing pixel values, and using data augmentation techniques.
+Web Deployment: The model is deployed as a web application using Flask. Users can upload images to classify them.
+Git LFS Support: Large .h5 model file is stored using Git LFS.
+
+## Model Details
+The model is built using VGG16 as a pre-trained base for feature extraction. It is fine-tuned with custom layers on top to classify images of spiral and wavy drawings into two categories: Healthy and Parkinson.
+
+Input Size: 128x128x3
+Output Classes: 2 (Healthy, Parkinson)
+Training Dataset: Spiral and wavy drawings collected from healthy and Parkinson's-affected individuals.
+
+
+
+
