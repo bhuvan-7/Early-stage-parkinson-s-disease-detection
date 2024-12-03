@@ -18,7 +18,6 @@ Welcome to the Early Stage Parkinson's Disease Detection project! This applicati
 ## 📖 Table of Contents
 
 - [🚀 Getting Started](#-getting-started)
-- [📂 Project Structure](#-project-structure)
 - [📋 Requirements](#-requirements)
 - [🔧 Setup](#-setup)
 - [📊 Usage](#-usage)
@@ -34,26 +33,19 @@ Follow the steps below to get started with the project.
 ### Prerequisites
 
 1. Python 3.x installed on your machine.
+
 2. Install Git if not already installed.
+
 3. Clone this repository:
    ```bash
    git clone https://github.com/your-username/early-stage-parkinsons-detection.git
+   
 4. Navigate to the project directory:
    ```bash
    cd early-stage-parkinsons-detection
    ```
 
-## 📂 Project Structure
 
-📦 Early-Stage-Parkinsons-Detection
-├── 📁 static
-│   ├── 📂 css
-│   ├── 📂 images
-├── 📁 templates
-│   └── index.html
-├── app.py
-├── model.h5
-└── README.md
 
 ## 📋 Requirements
 Install the necessary libraries using the requirements.txt file:
@@ -71,6 +63,7 @@ Access the Web Interface: Open your browser and navigate to:
 http://127.0.0.1:5000/
 
 
+
 ## 📊 Usage
 Steps to Use:
 Drag and drop a spiral or wavy drawing into the upload box.
@@ -78,8 +71,11 @@ Click the "Upload" button.
 View the prediction result (Healthy or Parkinson).
 
 
+
 ## 🤝 Contributing
 Contributions are always welcome! Feel free to fork this repository and submit a pull request. For major changes, please open an issue first to discuss what you’d like to change.
+
+
 
 ## 📜 License
 This project is licensed under the MIT License.
