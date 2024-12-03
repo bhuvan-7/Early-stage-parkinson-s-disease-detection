@@ -50,15 +50,15 @@ Follow the steps below to get started with the project.
 ## 📋 Requirements
 Install the necessary libraries using the requirements.txt file:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## 🔧 Setup
 Run the Flask Application:
-```bash
-python app.py
-```
+   ```bash
+   python app.py
+   ```
 Access the Web Interface: Open your browser and navigate to:
 http://127.0.0.1:5000/
 
