@@ -22,7 +22,6 @@ Welcome to the Early Stage Parkinson's Disease Detection project! This applicati
 - [📋 Requirements](#-requirements)
 - [🔧 Setup](#-setup)
 - [📊 Usage](#-usage)
-- [🖼️ Example](#-example)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 
@@ -40,9 +39,9 @@ Follow the steps below to get started with the project.
    ```bash
    git clone https://github.com/your-username/early-stage-parkinsons-detection.git
 4. Navigate to the project directory:
-```bash
-cd early-stage-parkinsons-detection
-```
+   ```bash
+   cd early-stage-parkinsons-detection
+   ```
 
 ## 📂 Project Structure
 
@@ -77,9 +76,6 @@ Steps to Use:
 Drag and drop a spiral or wavy drawing into the upload box.
 Click the "Upload" button.
 View the prediction result (Healthy or Parkinson).
-
-## 🖼️ Example
-Here's how the web interface looks:
 
 
 ## 🤝 Contributing
