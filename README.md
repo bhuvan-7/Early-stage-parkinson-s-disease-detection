@@ -1,7 +1,5 @@
 # 🧠 Early Stage Parkinson's Disease Detection
 
-![banner](https://via.placeholder.com/1200x400?text=Parkinson's+Disease+Detection+Using+Deep+Learning)
-
 Welcome to the Early Stage Parkinson's Disease Detection project! This application leverages deep learning techniques to classify **spiral** and **wavy drawings** as either **Healthy** or indicative of **Parkinson's Disease**. The project includes a trained model, a Flask web interface, and an easy-to-use drag-and-drop feature.
 
 ---
