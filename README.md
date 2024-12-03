@@ -72,8 +72,10 @@ View the prediction result (Healthy or Parkinson).
 
 
 
+
 ## 🤝 Contributing
 Contributions are always welcome! Feel free to fork this repository and submit a pull request. For major changes, please open an issue first to discuss what you’d like to change.
+
 
 
 
